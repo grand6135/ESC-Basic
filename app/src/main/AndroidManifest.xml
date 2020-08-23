@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.eos_basic_app">
+=======
+    package="com.example.eosbasicapp">
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
 
     <application
         android:allowBackup="true"

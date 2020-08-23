@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">EOS_BASIC_APP</string>
+=======
+    <string name="app_name">EOS BASIC APP</string>
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
 </resources>

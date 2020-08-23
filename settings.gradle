@@ -1,2 +1,6 @@
 include ':app'
+<<<<<<< HEAD
 rootProject.name = "EOS_BASIC_APP"
+=======
+rootProject.name = "EOS BASIC APP"
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b

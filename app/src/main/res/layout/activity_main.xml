@@ -4,9 +4,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< HEAD
     tools:context=".MainActivity">
 
     <ImageButton
+=======
+    android:background="#FFFFFF"
+    tools:context=".MainActivity">
+
+    <ImageButton
+
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
         android:id="@+id/main_ibtn_add"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -48,7 +56,10 @@
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline"
+<<<<<<< HEAD
         style="@style/DialButtonStyle"
+=======
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
@@ -56,7 +67,11 @@
 
     <TextView
         android:id="@+id/main_tv_1"
+<<<<<<< HEAD
         style="@style/DialButtonStyle"
+=======
+        style="@style/DialButtonStlye"
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:text="1"
@@ -68,7 +83,11 @@
 
     <TextView
         android:id="@+id/main_tv_2"
+<<<<<<< HEAD
         style="@style/DialButtonStyle"
+=======
+        style="@style/DialButtonStlye"
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:text="2"
@@ -80,10 +99,17 @@
 
     <TextView
         android:id="@+id/main_tv_3"
+<<<<<<< HEAD
         style="@style/DialButtonStyle"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:text="3'"
+=======
+        style="@style/DialButtonStlye"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:text="3"
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
         app:layout_constraintBottom_toTopOf="@+id/main_tv_6"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
@@ -92,7 +118,11 @@
 
     <TextView
         android:id="@+id/main_tv_4"
+<<<<<<< HEAD
         style="@style/DialButtonStyle"
+=======
+        style="@style/DialButtonStlye"
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:text="4"
@@ -104,7 +134,11 @@
 
     <TextView
         android:id="@+id/main_tv_5"
+<<<<<<< HEAD
         style="@style/DialButtonStyle"
+=======
+        style="@style/DialButtonStlye"
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:text="5"
@@ -116,10 +150,17 @@
 
     <TextView
         android:id="@+id/main_tv_6"
+<<<<<<< HEAD
         style="@style/DialButtonStyle"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:text="6'"
+=======
+        style="@style/DialButtonStlye"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:text="6"
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
         app:layout_constraintBottom_toTopOf="@+id/main_tv_9"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
@@ -128,7 +169,11 @@
 
     <TextView
         android:id="@+id/main_tv_7"
+<<<<<<< HEAD
         style="@style/DialButtonStyle"
+=======
+        style="@style/DialButtonStlye"
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:text="7"
@@ -140,7 +185,11 @@
 
     <TextView
         android:id="@+id/main_tv_8"
+<<<<<<< HEAD
         style="@style/DialButtonStyle"
+=======
+        style="@style/DialButtonStlye"
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:text="8"
@@ -152,7 +201,11 @@
 
     <TextView
         android:id="@+id/main_tv_9"
+<<<<<<< HEAD
         style="@style/DialButtonStyle"
+=======
+        style="@style/DialButtonStlye"
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:text="9"
@@ -164,7 +217,11 @@
 
     <TextView
         android:id="@+id/main_tv_star"
+<<<<<<< HEAD
         style="@style/DialButtonStyle"
+=======
+        style="@style/DialButtonStlye"
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:text="*"
@@ -176,7 +233,11 @@
 
     <TextView
         android:id="@+id/main_tv_0"
+<<<<<<< HEAD
         style="@style/DialButtonStyle"
+=======
+        style="@style/DialButtonStlye"
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:text="0"
@@ -188,7 +249,11 @@
 
     <TextView
         android:id="@+id/main_tv_sharp"
+<<<<<<< HEAD
         style="@style/DialButtonStyle"
+=======
+        style="@style/DialButtonStlye"
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:text="#"
@@ -212,8 +277,29 @@
         android:background="#F7F7F7"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+<<<<<<< HEAD
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/guideline2">
+=======
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline2"
+        app:layout_constraintVertical_bias="0.0">
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent="0.33" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent="0.66" />
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
 
         <ImageButton
             android:id="@+id/main_ibtn_message"
@@ -222,7 +308,11 @@
             android:background="#F7F7F7"
             android:foreground="?android:attr/selectableItemBackground"
             app:layout_constraintBottom_toBottomOf="parent"
+<<<<<<< HEAD
             app:layout_constraintEnd_toStartOf="@+id/guideline5"
+=======
+            app:layout_constraintEnd_toStartOf="@+id/guideline3"
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:srcCompat="@drawable/ic_message"
@@ -236,8 +326,13 @@
             android:foreground="?android:attr/selectableItemBackground"
             android:padding="16dp"
             app:layout_constraintBottom_toBottomOf="parent"
+<<<<<<< HEAD
             app:layout_constraintEnd_toStartOf="@+id/guideline6"
             app:layout_constraintStart_toStartOf="@+id/guideline5"
+=======
+            app:layout_constraintEnd_toStartOf="@+id/guideline4"
+            app:layout_constraintStart_toStartOf="@+id/guideline3"
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
             app:layout_constraintTop_toTopOf="parent"
             app:srcCompat="@drawable/ic_call"
             tools:ignore="ContentDescription,VectorDrawableCompat" />
@@ -250,6 +345,7 @@
             android:foreground="?android:attr/selectableItemBackground"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
+<<<<<<< HEAD
             app:layout_constraintStart_toStartOf="@+id/guideline6"
             app:layout_constraintTop_toTopOf="parent"
             app:srcCompat="@drawable/ic_backspace"
@@ -269,6 +365,12 @@
             android:orientation="vertical"
             app:layout_constraintGuide_percent="0.666" />
 
+=======
+            app:layout_constraintStart_toStartOf="@+id/guideline4"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_backspace"
+            tools:ignore="ContentDescription,VectorDrawableCompat" />
+>>>>>>> cedc9ef85a6fa83f175888507bd27a4735ad605b
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
